@@ -1,0 +1,253 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.main {
+    width: 100%;
+    height: 100vh;
+    /* background-color: rgb(40, 182, 59); */
+}
+.main1
+{
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    background-color:rgba(0, 0, 0, 0.29) ;
+}
+
+#panth-a {
+    width: 100%;
+    height: inherit;
+    position: absolute;
+    object-fit: cover;
+    object-position: center center;
+}
+#panth-b
+{
+    display: inline-block;
+    position:relative;
+    font-family: "Questrial", sans-serif;
+    color: white;
+    font-size: 28px;
+    font-weight: 400;
+    left: 80px;
+    top: 40px;
+}
+#panth-c
+{
+    display: inline-block;
+    position:relative;
+    color: white;
+    font-family: "Questrial", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    left: -30px;
+    top: 62px;
+}
+#panth-d
+{
+    position: relative;
+    color: white;
+    font-size: 35px;
+    font-weight: 100;
+    left: 1100px;
+    top: 50px;
+}
+#panth-e
+{
+    width: 500px;
+    position: relative;
+    color: rgb(201, 200, 200);
+    font-family: "Questrial", sans-serif;
+    font-size: 220px;
+    font-weight: 400;
+    top: 190px;
+    left: 345px;
+}
+#panth-f
+{
+    display: inline-block;
+    position: relative;
+    font-family: "Questrial", sans-serif;
+    color: white;
+    font-weight: 400;
+    top: 230px;
+    left: 680px;
+}
+#panth-g
+{
+    position: relative;
+    color: white;
+    font-size: 50px;
+    font-weight: 200;
+    top: 350px;
+    left: 550px;
+}
+.main3
+{
+    width: 100%;
+    height: 80vh;
+    background-image: url(./assets/img-2.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    padding-inline: 5%;
+    
+}
+.main4
+{
+    width: 100%;
+    height: 80vh;
+    background-image: url(./assets/img-3.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    padding-inline: 5%;
+    
+}
+.main5
+{
+    width: 100%;
+    height: 80vh;
+    background-image: url(./assets/img-4.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    padding-inline: 5%;
+    
+}
+.main6
+{
+    width: 100%;
+    height: 80vh;
+    background-image: url(./assets/img-5.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    padding-inline: 5%;
+    
+}
+.main7
+{
+    width: 100%;
+    height: 80vh;
+    background-image: url(./assets/img-6.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    padding-inline: 5%;
+    
+}
+.box-main
+{
+    width: 100%;
+    height: inherit;
+    /* background-color: white; */
+}
+.box-l
+{
+    width: 50%;
+    height: inherit;
+    float: left;
+    /* background-color: rgb(103, 5, 21); */
+}
+#panth-h
+{
+    font-family: "Questrial", sans-serif;
+    color: white;
+    padding-left: 50px;
+    font-size: 80px;
+    font-weight: 400;
+    padding-top: 150px;
+}
+#panth-i
+{
+    font-family: "Questrial", sans-serif;
+    color: white;
+    padding-left: 50px;
+    padding-top: 20px;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 35px;
+}
+#panth-j
+{
+    color: white;
+    font-size: 50px;
+    position: relative;
+    top: 20px;
+    left: 50px;
+}
+.box-r
+{
+    width: 50%;
+    height: inherit;
+    /* background-color: pink; */
+    float: left;
+    padding-top: 100px;
+    padding-left: 80px;
+}
+.box-rm
+{
+    width: 86%;
+    height: 80%;
+    /* background-color: red; */
+    display: flex;
+}
+.box-rl
+{
+    width: 50%;
+    height: 100%;
+    /* background-color: yellow; */
+}
+#panth-k
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: relative;
+    top: 50px;
+    right: 20px;
+}
+#panth-l
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+}
+.box-rr
+{
+    width: 50%;
+    height: 100%;
+    /* background-color: rgb(81, 0, 255); */
+}
+footer
+{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+}
+#panth-m
+{
+    display: inline-block;
+    font-family: "Questrial", sans-serif;
+    color: white;
+    font-size: 15px;
+    position: relative;
+    top: 190px;
+    left: -220px;
+    line-height: 20px;
+
+}
